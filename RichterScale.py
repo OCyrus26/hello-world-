@@ -1,7 +1,7 @@
-##print("Welcome to Richter Scale Calculation")
-##firstName = input("Enter first name: ")
-##lastName = input("Enter last name: ")
-##Id = int (input ("Enter your id number: "))
+print("Welcome to Richter Scale Calculation")
+firstName = input("Enter first name: ")
+lastName = input("Enter last name: ")
+Id = int (input ("Enter your id number: "))
 end = False
 
 while (end == False):
